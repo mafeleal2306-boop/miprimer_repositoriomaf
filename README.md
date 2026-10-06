@@ -45,3 +45,6 @@ $$
 x = 2^4*y + 1
 $$
 
+![foto1](perrito.jpg) 
+
+![gif1](gif_tallerasistido.gif) 
